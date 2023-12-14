@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.white
+{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+    
+}
+
+.black
+{
+    background-color: black;
+}
+
+.line1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
